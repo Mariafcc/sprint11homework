@@ -1,8 +1,1 @@
-[
-  { "title": "Test Title", "text": "Test text" },
-  {
-    "title": "Groceries ",
-    "text": "milk eggs grapes",
-    "id": "c57ffa50-f493-11ea-bb13-27d17cad803e"
-  }
-]
+[{ "title": "Test Title", "text": "Test text" }]
